@@ -1,0 +1,138 @@
+.q{
+    width: 200px;
+    height: 300px;
+}
+.w{
+    width: 200px;
+    height: 300px;
+    margin-left: 300px;
+    position: relative;
+    left: 40px;
+
+}
+.e{
+    width: 200px;
+    height: 300px;
+    margin-left: 400px;
+    position: relative;
+    right: 0px;
+
+}
+body{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-size: 100% 100% 100%;
+    background-repeat:repeat;
+    border-image-width: ;
+    background-image: url("naruto-itachi-uchiha-anime-wallpaper-thumb.jpg");
+   
+   
+}
+.a{
+    width: 100%;
+    height: 200px;
+    background: url("gojo.jpg");
+    
+    background-size: 100% 100% 100%;
+    background-position: center;
+}
+.s{
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    background: #ffffff;
+    color: #000000;
+
+}
+.z{
+    width: 100%;
+    height: 200px;
+    position: relative;
+    top: px;
+    background: url("elta.jpg");
+    background-size: 100% 100% 100%;
+    background-position: top;
+}
+.x{
+    width: 100%;
+    height: 90px;
+    border: 1px solid black;
+    background: #ffffff;
+    color: #000000;
+
+}
+.m{
+    width: 100%;
+    height: 200px;
+    background: url("./IMG_20230701_101059_906.jpg");
+    background-size: 50% 50% 50%;
+    background-position: center;
+}
+.n{
+    width: 100%;
+    height: 100px;
+    border:1px solid black ;
+    background: #ffffff;
+    color: #000000;
+
+}
+.kl{
+    width: auto;
+    height: auto;
+    display:flex;
+    margin-top: 150px;
+    
+}
+ul{
+    list-style: none;
+    color: #ffffff;
+    display:flex;
+    font-size: 20px;
+    position: relative;
+    top: -80px;
+
+}
+li{
+    margin-left: 40px;
+    margin-left: ;
+
+    position: relative;
+    left: 300px;
+}
+.lk{
+    width: 100%;
+    height: 100px;
+    border: 1px  rgb(245, 239, 239);
+    
+}
+.x:hover{
+transition: 0s;
+font-size: 17px;
+height: 100px;
+}
+.s:hover{
+    transition: 0s;
+    font-size: 17px;
+height: 120px;
+
+    }
+    .as{
+      font-size: 35px;
+      position: relative;
+      left: 30px;
+      bottom: 7px;
+    }
+    .n:hover{
+        transition: 0s;
+        font-size: 17px;
+height: 120px;
+
+        }
+        .q:hover{
+            background-size: 120% 120% 120%;
+        }
+        a{
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
